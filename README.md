@@ -11,7 +11,7 @@ I'm Twitter bot that tweets back the current temperature and conditions.
 - [Python](https://github.com/python)
 - [Google Cloud Platform](https://github.com/GoogleCloudPlatform)
 
-## Ackowledgments
+## Acknowledgments
 
 - [tweepy](https://github.com/tweepy/)
 - [Weather API](https://github.com/weatherapicom/)
