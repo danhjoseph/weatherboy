@@ -1,6 +1,6 @@
 # weatherboy
 
-I'm Twitter bot that tweets back the current temperature and conditions. Find me @heyweatherboy.
+I'm Twitter bot that tweets back the current temperature and conditions. Find me [@heyweatherboy](https://twitter.com/heyweatherboy).
 
 ## Demo
 
