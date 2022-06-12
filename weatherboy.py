@@ -38,8 +38,8 @@ def main():
             api.update_status("@" + username + " " + tweetback,
                               in_reply_to_status_id=tweetId)
             print("Tweeted back " + tweetback)
-        except tweepy.errors.TweepyException as e:
-            print(e.reason)
+        except tweepy.errors.TweepyException as error:
+            print(error)
         except StopIteration:
             break
 
